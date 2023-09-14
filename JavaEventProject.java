@@ -1,6 +1,3 @@
-/*                    JAVA EVENT HANDLING(AWT) PROJECT
-         NAME:- GARIMA GUPTA     YEAR:-2020    SEMESTER:-I             */ 
-
 import java.awt.*;
 import java.awt.event.*;
 
